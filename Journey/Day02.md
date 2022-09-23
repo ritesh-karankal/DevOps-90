@@ -18,6 +18,6 @@ Concepts learned:
 - Channels
 
 📌 Resources: <br>
-    Golang Tutorial for Beginners (TechWorld With Nana) - https://youtu.be/yyUHQIec83I
+    Golang Tutorial for Beginners (TechWorld With Nana) - https://youtu.be/yyUHQIec83I <br>
     Learn Go Programming - Golang Tutorial for Beginners (freecodecamp) - https://youtu.be/YS4e4q9oBaU
 
