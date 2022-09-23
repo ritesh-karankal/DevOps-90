@@ -14,9 +14,9 @@
     the fundamental characteristics of the tools themselves.
 
 📌 Resources: <br>
-    What is DevOps? by TechWorld With Nana - https://youtu.be/0yWAtQ6wYNM
-    Civo DevOps BootCamp - https://youtube.com/playlist?list=PLhc-GEHI0F7_8mbj23YWFpsgu1fl1yGL_
-    Michael Cade's repository - https://github.com/MichaelCade/90DaysOfDevOps
-    Book - Effective Devops: building a culture of collaboration, affinity, and tooling at scale (Chapter - 1)
+   - What is DevOps? by TechWorld With Nana - https://youtu.be/0yWAtQ6wYNM
+   -  Civo DevOps BootCamp - https://youtube.com/playlist?list=PLhc-GEHI0F7_8mbj23YWFpsgu1fl1yGL_
+   - Michael Cade's repository - https://github.com/MichaelCade/90DaysOfDevOps
+   - Book - Effective Devops: building a culture of collaboration, affinity, and tooling at scale (Chapter - 1)
 </aside>
 
