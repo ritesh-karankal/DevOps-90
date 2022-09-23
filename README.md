@@ -16,4 +16,5 @@ Goal -
 
 ### Getting Ready
 
-- [X] ♾️ 1 > [What is DevOps? - An Introduction]()
+- [X] ♾️ 1 > [What is DevOps? - An Introduction](https://github.com/ritesh-karankal/DevOps-90/blob/main/Journey/Day01.md)
+- [X] ♾️ 2 > [Learning Golang](https://github.com/ritesh-karankal/DevOps-90/blob/main/Journey/Day02.md)
